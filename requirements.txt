@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+bs4
+requests
